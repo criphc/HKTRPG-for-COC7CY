@@ -1,4 +1,4 @@
-=".char edit name["&人物卡!E3&"]~ "&
+=".char add name["&人物卡!E3&"]~ "&
 
 "state["&
 "STR"&G14&";"&
@@ -96,4 +96,4 @@ IF(W18=1,"",人物卡!AB48&":cc "&人物卡!AN48&" "&人物卡!AB48&";")&
 IF(人物卡!AB49="","",人物卡!AB49&":cc "&人物卡!AN49&" "&人物卡!AB49&";")&
 "]~"&
 
-"notes[基于神乐樱的CY空白人物卡ver2224263497:Criphc的QQ骰娘=>HKTRPGbot转换ver22032300;]~"
+"notes[基于神乐樱的CY空白人物卡ver2224263497:Criphc的QQ骰娘=>HKTRPGbot转换v1.1;]~"
