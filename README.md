@@ -13,7 +13,7 @@ Go and have your download at the [Release page](https://github.com/criphc/HKTRPG
 - [ ] 背景故事 -> note
 - [ ] 特长 -> note
 - [ ] custom note @ 任务卡 book
-- [ ] export to more share-friendly formats like jrpg/svg or pdf, but is it really something i should do?
+- [ ] export to more share-friendly formats like jepg/svg or pdf, but is it really something i should do?
 
 ## License
 GPL, of cause. However I don't what license the original card is under. Might the good auther 神楽桜 (or anyone related) tell me about this? 
