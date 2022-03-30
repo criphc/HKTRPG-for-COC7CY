@@ -9,6 +9,7 @@ Go and have your download at the [Release page](https://github.com/criphc/HKTRPG
 - Hey, what else do you want? [Open an issue](https://github.com/criphc/HKTRPG-for-COC7CY/issues/new) to tell me. 
 
 ## TO-DO
+- [ ] move/copy the str, dex, etc. to roll
 - [ ] 武器/伤害价值 -> note
 - [ ] 背景故事 -> note
 - [ ] 特长 -> note
