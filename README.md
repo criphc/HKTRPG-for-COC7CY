@@ -1,4 +1,4 @@
-# HKTRPG-for-COC7CY
+# NO LONGER MAINTAINED
 
 HKTRPG support for 神楽桜Official‘s blank COC 7 character card.
 
